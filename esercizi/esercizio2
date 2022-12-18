@@ -1,0 +1,8 @@
+Scrivi la funzione moltiplica che riceve 2 numeri e stampa il loro prodotto
+
+funzione moltiplica (numero1, numero2)
+//moltiplico i due numeri
+    risultato = numero1 * numero2
+//restituisco il risultato
+    restituisci il risultato
+fine

@@ -1,0 +1,13 @@
+Scrivi la funzione confronta che riceve due numeri e stampa “primo” se sono il primo numero è più grande del secondo, stampa “secondo” negli altri casi
+
+funzione confronta (numero1, numero2)
+//verifico se il primo numero è più grande del secondo
+se numero1 > numero2
+allora
+    stampa = "primo"
+altrimenti
+    stampa = "secondo"
+fine se
+//restituisco il risultato
+    restituisci il risultato
+fine

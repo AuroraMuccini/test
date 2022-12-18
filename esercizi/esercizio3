@@ -1,0 +1,12 @@
+Scrivi la funzione elabora che riceve tre numeri a, b, c e stampa  se a è più grande di b, stampa  altrimenti
+
+funzione elabora (numero1, numero2, numero3)
+//verifico se il primo numero è più grande del secondo
+se numero1 > numero2
+allora
+    risultato = numero1 + numero2 * numero3
+altrimenti
+    risultato = (numero1 + numero2)/ numero3
+fine se
+//restituisco il risultato
+    restituisci il risultato
